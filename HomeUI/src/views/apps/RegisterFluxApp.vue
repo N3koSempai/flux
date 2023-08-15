@@ -3189,7 +3189,7 @@ export default {
         const port = Number(nodeip.split(':')[1] || 16127) + 1;
         const CA = `-----BEGIN CERTIFICATE-----
 MIIDWzCCAkOgAwIBAgIUXq+gIhKfGEemMHFy0uQ0NvgrBJ0wDQYJKoZIhvcNAQEL
-BQAwRjEeMBwGA1UEAwwVc2VsZi5hcGkucnVub25mbHV4LmlvMSQwIgYDVQQKDBtS
+BQAwRjEeMBwGA1UEAwwVc2VsZi5hcGkucnVub25mbHV4LmlvMSQwIgYDVQQKDBtL
 dW5PbkZsdXggU2lnbmluZyBBdXRob3JpdHkwHhcNMjMwODExMDgwNjE5WhcNMzMw
 ODA4MDgwNjE5WjA0MR4wHAYDVQQDDBVzZWxmLmFwaS5ydW5vbmZsdXguaW8xEjAQ
 BgNVBAoMCVJ1bk9uRmx1eDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
